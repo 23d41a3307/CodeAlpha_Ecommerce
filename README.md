@@ -78,7 +78,7 @@ This project was developed for:
 
 ## 👩‍💻 Developer
 
-**Rithika**
+**Boddu Rithika**
 
 ---
 
